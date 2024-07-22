@@ -43,10 +43,12 @@ Method  | Paradigm | IMT ↑ | Method  | Paradigm | IMT ↑ | Method  | Paradigm
 SORT   | SDE | 1.67 |   TransCenter   | TranF | 0.45 | CenterTrack   | JDE | 0.54 |
 DeepSORT   | SDE | 1.09 |  TrackFormer   | TranF | 0.46 | FairMOT   | JDE | 1.55 |
 Trackor   | SDE |  0.85  | **TFMFT**  | **TranF** | **1.22** | CMFTNet   | JDE | 1.70 |
-ByteTrack   | SDE | 0.83 | | | | **P2PMFT**   | **JDE** | **3.20** |
+ByteTrack   | SDE | 0.83 | | | | **P2PMFT**$^\dagger$   | **JDE** | **3.20** |
 **QDTrack**   | **SDE** | **1.68** | | | | **P2PMFT**   | **JDE** | **1.74** |
 OC-SORT   | SDE | 1.01 |
 
+* **P2PMFT**$^\dagger$ incorporates the PMNet-Light backbone. 
+* **TranF** refers to Transformer architecture.
 ### MFT series Datasets
 The dataset have been released on [**\[GitHub|MFT_DATASETS\]**](https://github.com/vranlee/MFT_DATASETS/).
 
