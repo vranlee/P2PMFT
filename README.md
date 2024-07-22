@@ -4,8 +4,14 @@ The official implementation of the paper：
 >  Weiran Li, Yeqiang Liu, Zhenbo Li*
 >  [**\[Paper\]**](##TODO:LINK##) [**\[Code\]**](https://github.com/vranlee/P2PMFT/)
 
+<div align="center">
 <img src="assets/Framework.png" width="900"/>
-<img src="assets/IMT.gif" width="300"/><img src="assets/GIF1.gif" width="300" height='300'/><img src="assets/GIF2.gif" width="300" height='300'/>
+</div>
+
+<div align="center">
+   <img src="assets/IMT.gif" width="300"/><img src="assets/GIF1.gif" width="300" height='300'/><img src="assets/GIF2.gif" width="300" height='300'/>
+</div>
+
 
 Contact: vranlee@cau.edu.cn. Any questions or discussion are welcome!
 
