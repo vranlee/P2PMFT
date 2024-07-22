@@ -1,4 +1,4 @@
-# TFMFT: Transformer-based Multiple Fish Tracking
+# P2PMFT: Point-to-Point Multiple Fish Tracking
 The official implementation of the paper：
 >  [**P2PMFT: Point-to-Point Multiple Fish Tracking**](##TODO:LINK##)  
 >  Weiran Li, Yeqiang Liu, Zhenbo Li*
