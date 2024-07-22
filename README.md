@@ -5,7 +5,7 @@ The official implementation of the paper：
 >  [**\[Paper\]**](##TODO:LINK##) [**\[Code\]**](https://github.com/vranlee/P2PMFT/)
 
 <img src="assets/Framework.png" width="900"/>
-<img src="assets/IMT.gif" width="200"/> <img src="assets/GIF1.gif" width="200" height='200'/> <img src="assets/GIF2.gif" width="200" height='200'/>
+<img src="assets/IMT.gif" width="200"/><img src="assets/GIF1.gif" width="200" height='200'/><img src="assets/GIF2.gif" width="200" height='200'/>
 
 Contact: vranlee@cau.edu.cn. Any questions or discussion are welcome!
 
