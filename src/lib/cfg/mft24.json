@@ -1,0 +1,15 @@
+{
+    "root": "/data1/LWR/vranlee/DATASETS/MFT",
+    "train":
+    {
+        "mft24":"/data1/LWR/vranlee/P2PMFT/src/data/mft24.half"
+    },
+    "test_emb":
+    {
+        "mft24":"/data1/LWR/vranlee/P2PMFT/src/data/mft24.emv"
+    },
+    "test":
+    {
+        "mft24":"/data1/LWR/vranlee/P2PMFT/src/data/mft24.val"
+    }
+}
